@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhawamdeh/team-profile-generator.git"
+  },
+  "author": "yazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhawamdeh/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/yhawamdeh/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
